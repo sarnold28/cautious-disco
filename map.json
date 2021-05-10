@@ -1839,7 +1839,7 @@
         {
          "columns":16,
          "firstgid":3190,
-         "image":"..\/verbose-dollop\/tiles\/19_Hospital_32x32.png",
+         "image":"tiles\/19_Hospital_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
